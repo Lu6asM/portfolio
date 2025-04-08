@@ -1,7 +1,5 @@
 # Lucas Meireles - Portfolio Data Analyst
 
-![Photo de profil](images/profile.jpg)
-
 ## À propos de moi
 Data Analyst Junior certifié par la Wild Code School, passionné par la transformation de données complexes en insights actionnables. Spécialisé en Python, SQL et visualisation de données avec Power BI et Looker Studio. Disponible immédiatement pour un poste à temps plein.
 
