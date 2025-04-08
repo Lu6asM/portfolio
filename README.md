@@ -16,7 +16,7 @@ Je suis à la recherche d'un poste à temps plein en tant que Data Analyst et di
 
 ### [Dashboard Business Intelligence - Analyse des ventes](https://lookerstudio.google.com/reporting/aecc1dc9-d2e5-4a07-9119-1ce229e23bae)
 
-![Dashboard Preview](assets/img/project1/dashboard-preview.png)
+![Dashboard Preview](assets/img/project1-preview.png)
 
 **Technologies**: Power BI, SQL, Python
 
@@ -24,11 +24,11 @@ Je suis à la recherche d'un poste à temps plein en tant que Data Analyst et di
 
 - Exploration d'une base de données client et analyse approfondie des KPIs critiques
 - Création de visualisations dynamiques pour le suivi de la performance des représentants commerciaux
-- [Plus de détails](projects/dashboard.md)
+- [Plus de détails](https://wildcodeschool.github.io/data-training-resources/projet/projet-1/)
 
 ### [Système de Recommandation de Films - Style Netflix](https://film-recommender-lfe-app.streamlit.app)
 
-![Recommendation System Preview](assets/img/project2/recommendation-preview.png)
+![Recommendation System Preview](assets/img/project2-preview.png)
 
 **Technologies**: Python (Scikit-learn), Streamlit
 
@@ -37,9 +37,11 @@ Je suis à la recherche d'un poste à temps plein en tant que Data Analyst et di
 - Analyse exploratoire des données IMDb et TMDB
 - Création d'algorithmes de machine learning pour les recommandations personnalisées
 - Interface utilisateur interactive développée avec Streamlit
-- [Plus de détails](projects/recommendation.md)
+- [Plus de détails](https://wildcodeschool.github.io/data-training-resources/projet/projet-2/)
 
 ### [Application de suivi de portefeuille boursier](https://komorebi-investments.streamlit.app)
+
+![Application Preview](assets/img/project3-preview.png)
 
 **Technologies**: Python, PostgreSQL, MageIA, AWS, Streamlit
 
@@ -48,6 +50,7 @@ Je suis à la recherche d'un poste à temps plein en tant que Data Analyst et di
 - Conception et développement d'une solution complète de suivi de portefeuille
 - Déploiement de tableaux de bord interactifs pour visualiser les performances et tendances
 - Utilisation de technologies cloud pour le stockage et le traitement des données
+- [Plus de détails](https://wildcodeschool.github.io/data-training-resources/projet/projet-3/wild-data-hub/)
 
 ## 🛠️ Compétences techniques
 
