@@ -66,7 +66,7 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 - ✅ Architecture cloud scalable (AWS + PostgreSQL)
 - ✅ Interface responsive et intéractive
 
-[📖 Voir le code](https://github.com/Lu6asM/portfolio-tracker) | [🔗 Plus de détails](https://wildcodeschool.github.io/data-training-resources/projet/projet-3/wild-data-hub/) | [📈 Voir l'application](https://komorebi-investments.streamlit.app)
+[📖 Voir le code](https://github.com/Lu6asM/Finance-Co) | [🔗 Plus de détails](https://wildcodeschool.github.io/data-training-resources/projet/projet-3/wild-data-hub/) | [📈 Voir l'application](https://komorebi-investments.streamlit.app)
 
 ---
 
