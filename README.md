@@ -84,9 +84,8 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 🎓 Formation
-
-- **Business Data Analyst** | Data Scientest | Septembre 2025 - 2027 (en alternance)
-- **Certification Data Analyst** | Wild Code School | Septembre 2024 - Février 2025 ✅
+- [Business Data Analyst](https://datascientest.com/formation-business-analyst-alternance) | Data Scientest | Septembre 2025 - 2027 (en alternance)
+- [Certification Data Analyst](assets/resume/certification-data-analyst.pdf) | Wild Code School | Septembre 2024 - Février 2025 ✅
 - **BTS Professions Immobilières** | IESCA, Nantes | 2019 - 2021 ✅
 - **Baccalauréat Professionnel Commerce** | Lycée Notre Dame, Challans | 2016 - 2019 ✅
 
@@ -99,6 +98,7 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 
 **Ce que j'apporte** :
 - Compétences techniques solides en analyse de données
+- Plusieurs dashboards réalisés sur différentes plateformes 
 - 3 projets concrets avec impact métier démontré
 - Expérience en visualisation de données et machine learning
 - Autonomie et capacité d'adaptation
