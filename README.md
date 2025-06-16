@@ -85,9 +85,11 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 - ✅ Évolution des acquisitions clients 2014-2025
 - ✅ Création d'une segmentation RFM
 
----
+**Retour formateur:** "Rapport très attrayant visuellement, candidat professionnel avec un bon raisonnement sur la proposition de prix"
 
 [📖 Voir le dashboard](https://lookerstudio.google.com/reporting/a3113086-b9b0-41a8-8e9a-8658b96a0af2)
+
+---
 
 ### 🏆 Analyse Marché Viticole - Projet de Certification
 
