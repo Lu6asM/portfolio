@@ -4,7 +4,7 @@
 
 ## 👋 À propos de moi
 
-Data Analyst junior passionné par la transformation des données en insights actionnables. Certifié par la Wild Code School, je combine des compétences techniques en analyse de données avec une expérience pratique en visualisation et en machine learning.
+Data Analyst junior passionné par la transformation des données en insights actionnables. En reconversion depuis le commerce vers la data, j'apporte une vision terrain et une compréhension des enjeux business qui donnent du sens à mes analyses. Certifié par la Wild Code School, je combine des compétences techniques en analyse de données avec une expérience pratique en exploration, visualisation et en machine learning.
 
 🎯 **Je suis à la recherche d'une alternance Data Analyst pour septembre 2025** dans le cadre de mon cursus Business Data Analyst chez Data Scientest (2025-2027).
 
@@ -72,23 +72,7 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 
 ## 📊 Dashboards & Analyses Business
 
-### 📈 🏆 Analyse Marché Viticole - Projet de Certification
-
-![Dashboard Preview](assets/img/dashboard1-preview.png)
-
-**Technologies**: Power BI, Python, SQL
-**Impact métier**: Stratégie de pricing pour l'export US de vin
-
-**Résultats mesurables**:
-- ✅ Analyse de 130k références mondiales
-- ✅ Recommandations stratégiques validées
-- ✅ Dashboard interactif multi-niveaux
-
-[📖 Voir le dashboard](assets/bi/dashboard1.pbix) | [🔗 Plus de détails](assets/bi/dashboard1-pres.pdf)
-
----
-
-### 🎬 [Analyse Démographique Nickel - Test Technique](https://lookerstudio.google.com/reporting/a3113086-b9b0-41a8-8e9a-8658b96a0af2)
+### 💼 [Analyse Démographique Nickel - Test Technique](https://lookerstudio.google.com/reporting/a3113086-b9b0-41a8-8e9a-8658b96a0af2)
 
 ![Recommendation System Preview](assets/img/dashboard2-preview.png)
 
@@ -101,7 +85,23 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 - ✅ Évolution des acquisitions clients 2014-2025
 - ✅ Création d'une segmentation RFM
 
+---
+
 [📖 Voir le dashboard](https://lookerstudio.google.com/reporting/a3113086-b9b0-41a8-8e9a-8658b96a0af2)
+
+### 🏆 Analyse Marché Viticole - Projet de Certification
+
+![Dashboard Preview](assets/img/dashboard1-preview.png)
+
+**Technologies**: Power BI, Python, SQL
+**Impact métier**: Stratégie de pricing pour l'export US de vin
+
+**Résultats mesurables**:
+- ✅ Analyse de 130k références mondiales
+- ✅ Recommandations stratégiques validées
+- ✅ Dashboard interactif multi-niveaux
+
+[📖 Voir le dashboard](assets/bi/dashboard1.pbix) | [🔗 Plus de détails](assets/bi/dashboard1-pres.pdf)
 
 ---
 
