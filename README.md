@@ -1,4 +1,4 @@
-# Lucas Meireles | Data Analyst Portfolio
+# Lucas Meireles | Data Portfolio
 
 ![Banner](assets/img/banner.png)
 
@@ -6,7 +6,7 @@
 
 Data Analyst junior passionné par la transformation des données en insights actionnables. En reconversion depuis le commerce vers la data, j'apporte une vision terrain et une compréhension des enjeux business qui donnent du sens à mes analyses. Certifié par la Wild Code School, je combine des compétences techniques en analyse de données avec une expérience pratique en exploration, visualisation et en machine learning.
 
-🎯 **Je suis à la recherche d'une alternance Data Analyst pour septembre 2025** dans le cadre de mon cursus Business Data Analyst chez Data Scientest (2025-2027).
+🎯 **Je suis à la recherche d'une alternance en Data pour septembre 2025** dans le cadre de mon cursus Big Data & IA chez Sup de Vinci (2025-2027).
 
 Rythme : 3 semaines en entreprise / 1 semaine en formation
 
@@ -140,7 +140,7 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 
 ## 🎓 Formation & Certifications
 
-- 🎯 [**Business Data Analyst**](https://datascientest.com/formation-business-analyst-alternance) | Data Scientest | Septembre 2025 - 2027 (en alternance)
+- 🎯 [**Mastère Big Data & IA en alternance**](https://datascientest.com/formation-business-analyst-alternance) | Sup de Vinci | Septembre 2025 - 2027 (en alternance)
 - ✅ [**Certification Data Analyst**](assets/resume/certification-data-analyst.pdf) | Wild Code School | Sept 2024 - Fév 2025  
   *Formation intensive 5 mois : Python, SQL, ML, Visualisation*
 - ✅ **BTS Professions Immobilières** | IESCA, Nantes | 2019 - 2021
@@ -151,7 +151,7 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 ## 💼 Recherche d'alternance
 
 ### 🎯 **Objectif**
-Alternance Data Analyst - **Septembre 2025**
+Alternance en Big Data & IA - **Septembre 2025**
 
 ### ⏰ **Modalités**
 - **Rythme** : 3 semaines entreprise / 1 semaine formation
@@ -173,6 +173,7 @@ Alternance Data Analyst - **Septembre 2025**
 🔗 **LinkedIn** : [linkedin.com/in/lucasmeireles85](https://linkedin.com/in/lucasmeireles85)  
 📱 **Téléphone** : 06 40 31 81 93  
 📍 **Localisation** : Nantes, Pays de la Loire (rayon 30km)
+🚗 **Permis B** : (Véhiculé)
 
 📄 **CV complet** : [Voir PDF](assets/resume/CV_Lucas_Meireles.pdf)
 
