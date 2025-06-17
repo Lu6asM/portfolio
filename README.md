@@ -140,7 +140,7 @@ Rythme : 3 semaines en entreprise / 1 semaine en formation
 
 ## 🎓 Formation & Certifications
 
-- 🎯 [**Mastère Big Data & IA en alternance**](https://datascientest.com/formation-business-analyst-alternance) | Sup de Vinci | Septembre 2025 - 2027 (en alternance)
+- 🎯 [**Mastère Big Data & IA en alternance**](https://www.supdevinci.fr/formations/mastere-specialisation-big-data/) | Sup de Vinci | Septembre 2025 - 2027 (en alternance)
 - ✅ [**Certification Data Analyst**](assets/resume/certification-data-analyst.pdf) | Wild Code School | Sept 2024 - Fév 2025  
   *Formation intensive 5 mois : Python, SQL, ML, Visualisation*
 - ✅ **BTS Professions Immobilières** | IESCA, Nantes | 2019 - 2021
