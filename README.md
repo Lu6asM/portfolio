@@ -173,7 +173,6 @@ Alternance en Big Data & IA - **Septembre 2025**
 🔗 **LinkedIn** : [linkedin.com/in/lucasmeireles85](https://linkedin.com/in/lucasmeireles85)  
 📱 **Téléphone** : 06 40 31 81 93  
 📍 **Localisation** : Nantes, Pays de la Loire (rayon 30km)
-🚗 **Permis B** : (Véhiculé)
 
 📄 **CV complet** : [Voir PDF](assets/resume/CV_Lucas_Meireles.pdf)
 
